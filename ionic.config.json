@@ -1,0 +1,7 @@
+{
+  "name": "devdactic-simpleLogin",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
